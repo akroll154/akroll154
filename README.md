@@ -12,11 +12,11 @@
 
   🚀 Main Projects 🚀 <br>
   ✦ My First Front-End developed project with HTML5 and CSS3; <br>
-    → Link: <br>
+    → Link: https://github.com/akroll154/first-project-HTML-CSS3.git <br>
     → This HTML and CSS code was made for a website selling artisanal products, creating a visually stunning and user-friendly website that effectively showcases the diverse range of products available for sale and the production's backstage and stories. <br>
   
   ✦ My First Back-End developed project with JavaSE; <br>
-    → Link: <br>
+    → Link: https://github.com/akroll154/first-java-project.git <br>
     → This programming Object Oriented Back-End project was made thinking of the previous mencioned Front-End website designed for selling artisanal products, adding more features and input and output data checking. <br>
   
   
