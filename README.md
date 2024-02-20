@@ -2,7 +2,7 @@
   I’m Carolina, aka @akroll154!
   
  💻 About me 💻 <br>
- ✦ I'm a Junior Full Stack programmer student, interested in learning new programming languages and currently focusing on Java Enterprise Edition and PostgreSQL/databases. <br>
+ ✦ I'm a Junior Full Stack programmer, interested in learning new programming languages and currently focusing on Java Enterprise Edition and PostgreSQL/databases. <br>
  ✦ I'm looking forward to positively collaborate on the IT world, seeking for experience and professional growth and increase my range of knowledge.
 
  📌 Techs and Habilities 📌 <br>
